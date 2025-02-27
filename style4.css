@@ -29,10 +29,6 @@
     color: red;
 }
 
-
-
-
-
 /* task9 */
 .ol li:nth-child(odd){
   color: red;
