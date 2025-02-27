@@ -1,0 +1,44 @@
+/* task1 */
+.container [class ="text"]{
+ color: red;
+}
+/* task2 */
+#menu [class $= 'active']{
+ color: rgb(234, 40, 40);
+}
+/* task 3 */
+.card > h3:first-of-type {
+    color: red;
+}
+/* task 5 */ 
+.ul li:nth-of-type(2){
+    color: red;
+}
+/* task 6 */
+
+/* task7 */
+.spans span:last-of-type{
+ color: red;
+}
+.spans span{
+    display: block;
+}
+
+/* task 8 */
+.parent .child ~ span:last-of-type {
+    color: red;
+}
+
+
+
+
+
+/* task9 */
+.ol li:nth-child(odd){
+  color: red;
+}
+/* task 10 */
+.inner p:nth-child(2) {
+    color: red;
+}
+

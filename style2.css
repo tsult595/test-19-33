@@ -1,0 +1,23 @@
+.text span{
+    color: red;
+}
+
+.text a{
+    color: green;
+
+}
+text span, a:active{
+    color: red;
+}
+
+.table{
+   text-align: center; 
+   width: 40%;
+}
+
+.table tr:nth-child(even)
+{
+background-color: #312323;
+color: white;
+}
+

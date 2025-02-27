@@ -1,0 +1,20 @@
+.blue{
+    background-color: blue;
+}
+
+.green{
+    background-color: green;
+}
+
+#pink{
+    color: rgb(208, 168, 175);
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.codingBorder{
+    border: 3px solid rgb(149, 66, 149);
+    color: red;
+}
